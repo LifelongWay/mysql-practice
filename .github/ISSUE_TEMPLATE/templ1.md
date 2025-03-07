@@ -1,3 +1,11 @@
+---
+name: '...'
+about: ''
+title: ['Wiki']
+labels: ''
+assignees: ''
+---
+
 ## 💻 Description
 - ...
 
