@@ -1,9 +1,9 @@
 ---
 name: 'Wiki Issue'
-about: ''
-title: ['Wiki']
-labels: ''
-assignees: ''
+about: 'adsa'
+title: 'Wiki'
+labels: []  # This way it's an empty list, not an empty string
+assignees: []  # Empty list if you don't want anyone assigned
 ---
 
 ## 💻 Description
