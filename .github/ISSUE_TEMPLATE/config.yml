@@ -1,0 +1,4 @@
+issue_templates:
+  - name: Bug Report
+    description: Create a report to help us improve
+    filename: template1.md
