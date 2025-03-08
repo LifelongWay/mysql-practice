@@ -1,4 +1,5 @@
-issue_templates:
-  - name: Bug Report
-    description: Create a report to help us improve
-    filename: template1.md
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub Community Support
+    url: https://github.com/orgs/community/discussions
+    about: P
