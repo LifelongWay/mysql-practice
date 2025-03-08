@@ -1,6 +1,6 @@
 ---
-name: 'Lsfd'
-about: 'asdf'
+name: 'Wiki Issue'
+about: ''
 title: ['Wiki']
 labels: ''
 assignees: ''
